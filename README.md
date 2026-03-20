@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=TypeScript)
-![VS Code](https://img.shields.io/badge/-VSCode-333?style=for-the-badge&logo=VSCode)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge) 
 ![Unity](https://img.shields.io/badge/-Unity-333?style=for-the-badge&logo=Unity)
+![VS Code](https://img.shields.io/badge/-VS_Code-333?style=for-the-badge&logo=VS_Code)
 
 
 
