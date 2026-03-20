@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 ![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=SASS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=Node.js) 
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=TypeScript)
+![VS Code](https://img.shields.io/badge/-VSCode-333?style=for-the-badge&logo=VSCode)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge) 
 ![Unity](https://img.shields.io/badge/-Unity-333?style=for-the-badge&logo=Unity)
-![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=React)
+
 
 
