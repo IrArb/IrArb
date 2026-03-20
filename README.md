@@ -28,5 +28,6 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge) 
 ![Unity](https://img.shields.io/badge/-Unity-333?style=for-the-badge&logo=Unity)
+![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=React)
 
 
