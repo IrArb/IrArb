@@ -1,19 +1,8 @@
-## Hi there 👋
+## Всем привет!  👋
 
-<!--
-**IrArb/IrArb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Я **Арбузова Ирина Игоревна**  занимаюсь веб-разработкой с 2017 года. В настоящий момент осваиваю бэкенд разработку. Готова рассмотреть сотрудничество на постоянной основе с крупной компанией.По всем вопросам вы можете со мной связаться в контакте.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
@@ -35,6 +24,6 @@ Here are some ideas to get you started:
 ### Контакты
 [![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/id193048249)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/IrArb)
-[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Tairamaggor)
+
 
 
